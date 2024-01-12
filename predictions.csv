@@ -1,0 +1,16 @@
+,Customer Query,Prediction
+0,What are the bus timings from rgia to sangeeth,Bus 
+1,Can I take a bag weighing 12 kgs,Baggage 
+2,when is my flight number 6E 789,Flight 
+3,when I am arriving at the mumbai airport,Flight 
+4,what is the bus route from rgia to jbs,Bus 
+5,can I carry a nail cutter in my personal handbag,Baggage 
+6,I have 2 bags weighing 20 kgs. Will I have to pay extra ?,Baggage 
+7,what are parking charges for 2 hours,Parking 
+8,can I park a 2 wheeler,Parking 
+9,where can I park my car for terminal 2,Parking 
+10,can I leave my car for 2 days at the airport?,Parking 
+11,when will I get  a bus to l b nagar if my flight lands at 2 pm in afternoon?,Bus 
+12,Is my flight 9B 712 delayed?,Flight 
+13,Show me the parking charges for car,Parking 
+14,"my flight was 7A 990, on which belt number should I go to get my bags",Flight 
